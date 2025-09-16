@@ -1,6 +1,6 @@
 ## Cat vs Dog Image Classifier
 
-### Interface with code files
+### Interface & code files
 https://huggingface.co/spaces/mathewka/minima/tree/main
 
 ### Fine-tuning code
